@@ -13,4 +13,8 @@ https://www.distributional-rl.org/
 ## Course
 https://www.youtube.com/watch?v=IAaUXszVT_A
 
+## Blog
+强化学习（RL）中有哪些重要的理论结果？ - 微软亚洲研究院的回答 - 知乎
+https://www.zhihu.com/question/312164724/answer/1667432328
+
 
